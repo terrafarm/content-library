@@ -1,11 +1,11 @@
 {
   "name": "server",
-  "version": "0.0.1",
-  "description": "Masochist server",
+  "version": "0.0.2",
+  "description": "Terrafarm content library",
   "main": "dist/server/main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wincent/masochist.git"
+    "url": "https://github.com/terrafarm/content-library"
   },
   "scripts": {
     "lint": "gulp lint",
@@ -15,11 +15,18 @@
     "update-indices": "babel-node src/bin/updateIndices.js",
     "update-schema": "babel-node src/bin/updateSchema.js"
   },
-  "author": {
-    "name": "Greg Hurrell",
-    "email": "greg@hurrell.net",
-    "url": "https://github.com/wincent"
-  },
+  "authors": [
+    {
+      "name": "Ryan Blakeley",
+      "email": "ryan@terra.farm",
+      "url": "https://github.com/rojobuffalo"
+    },
+    {
+      "name": "Greg Hurrell",
+      "email": "greg@hurrell.net",
+      "url": "https://github.com/wincent"
+    }
+  ],
   "license": "CC-BY-NC-SA-4.0",
   "private": true,
   "devEngines": {

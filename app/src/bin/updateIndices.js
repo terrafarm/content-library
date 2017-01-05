@@ -7,7 +7,7 @@
  * most recently updated wiki articles):
  *
  * ```
- * redis-cli> ZREVRANGE masochist:2:wiki-index 0 10
+ * redis-cli> ZREVRANGE terrafarm_content_library:1:wiki-index 0 10
  * ```
  */
 

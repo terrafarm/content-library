@@ -60,7 +60,7 @@ export default class App extends React.Component {
   render() {
     const {children, routes} = this.props;
     return (
-      <DocumentTitle title="wincent.com">
+      <DocumentTitle title="Terrafarm">
         <div className="app">
           <Nav routes={routes} />
           <section className="app-content container">

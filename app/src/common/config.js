@@ -2,5 +2,5 @@
  * @flow
  */
 
-export const canonicalHost = 'wincent.com';
+export const canonicalHost = 'terra.farm';
 export const canonicalScheme = 'https://';
