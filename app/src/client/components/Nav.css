@@ -1,5 +1,5 @@
 nav {
-  background-color: black;
+  background-color: rgba(239,235,233 ,0.92);
   border-bottom: 1px solid #fff;
   width: 100%;
 }
@@ -11,12 +11,12 @@ nav li:first-child {
 
 nav li:first-child a {
   border-bottom: 1px solid #333;
-  color: #eee;
+  color: rgb(112, 169, 56);
   font-weight: bold;
 }
 
 a.nav-link {
-  color: #ccc;
+  color: rgb(120, 144, 156);
   display: block;
   text-decoration: none;
   padding: 1rem 1rem;
@@ -26,7 +26,7 @@ a.nav-link {
 .nav-link:focus,
 .nav-link:hover {
   background-color: #111;
-  color: #fff;
+  color: #263238;
 }
 
 nav ul {
@@ -105,8 +105,8 @@ nav li {
 
   a.nav-link.active {
     background-clip: padding-box;
-    background-color: #333;
-    border-bottom: 4px solid rgba(191, 63, 191, .25);
+    background-color: #d7ccc8;
+    border-bottom: 4px solid #8d6e63;
     margin-bottom: -4px;
   }
 

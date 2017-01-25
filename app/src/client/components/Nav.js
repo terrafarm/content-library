@@ -50,7 +50,7 @@ export default class Nav extends React.Component {
       <nav className={cx({'nav-open': this.state.isOpen})}>
         <ul>
           <li>
-            <Link className="nav-link" to="/">Wincent</Link>
+            <Link className="nav-link" to="/">TERRAFARM</Link>
             {
               inBrowser ?
                 <div className="nav-toggle-wrapper">
