@@ -63,7 +63,6 @@ export default class Nav extends React.Component {
           </li>
           <NavLink target="/blog" text="Blog" active={active} />
           <NavLink target="/wiki" text="Wiki" active={active} />
-          <NavLink target="/snippets" text="Snippets" active={active} />
           <NavLink target="/tags" text="Tags" active={active} />
           <NavLink target="/search" text="Search" active={active} />
         </ul>

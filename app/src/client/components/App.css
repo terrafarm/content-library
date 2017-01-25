@@ -5,6 +5,8 @@ html {
   text-rendering: optimizeLegibility;
 }
 
+body { color: #263238; }
+
 *,
 *:before,
 *:after {
@@ -31,9 +33,9 @@ article:first-child {
   margin-top: initial;
 }
 
-h1 a {
-  text-decoration: none;
-}
+body { font-family: 'Simonetta', serif; font-weight: 400; }
+h1 { font-family: 'Averia Serif Libre', serif; font-weight: 400; }
+h1 a { text-decoration: none; }
 
 .external:after {
   background-image: url(../../../vendor/icons/external-link.svg);
@@ -58,6 +60,13 @@ h1 a {
 button:disabled {
   /* TODO: something nicer here; may want animation */
   opacity: .5;
+}
+
+a { color: rgba(92,107,192 ,0.92); }
+a:hover { color: rgba(92,107,192 ,0.6); }
+
+input[type="search"]:focus {
+  border-color: rgba(92,107,192 ,0.92);
 }
 
 /* > Phablet */

@@ -11,23 +11,22 @@ nav li:first-child {
 
 nav li:first-child a {
   border-bottom: 1px solid #333;
-  color: rgb(112, 169, 56);
-  font-weight: bold;
+  color: rgb(112, 169, 56) !important;
+  font-family: inherit;
+  font-weight: 900;
 }
 
 a.nav-link {
   color: rgb(120, 144, 156);
   display: block;
+  font-family: 'Overlock SC', serif;
   text-decoration: none;
   padding: 1rem 1rem;
   width: 100%;
 }
 
 .nav-link:focus,
-.nav-link:hover {
-  background-color: #111;
-  color: #263238;
-}
+.nav-link:hover { color: #263238; }
 
 nav ul {
   list-style-type: none;
@@ -104,6 +103,7 @@ nav li {
   }
 
   a.nav-link.active {
+    color: #263238;
     background-clip: padding-box;
     background-color: #d7ccc8;
     border-bottom: 4px solid #8d6e63;
