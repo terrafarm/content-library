@@ -34,7 +34,7 @@ article:first-child {
 }
 
 body { font-family: 'Simonetta', serif; font-weight: 400; }
-h1 { font-family: 'Averia Serif Libre', serif; font-weight: 400; }
+h1, h2, h3 { font-family: 'Averia Serif Libre', serif; font-weight: 400; }
 h1 a { text-decoration: none; }
 
 .external:after {
