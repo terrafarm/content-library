@@ -25,7 +25,7 @@ export default class Footer extends React.Component {
         <div className="container">
           <div className="row">
             <div className="four columns">
-              <h6>Site</h6>
+              <h6>Content Library</h6>
               <ul>
                 <FooterLink target="/blog" text="Blog" />
                 <FooterLink target="/wiki" text="Wiki" />
@@ -37,25 +37,15 @@ export default class Footer extends React.Component {
             <div className="four columns">
               <h6>External</h6>
               <ul>
-                <StaticFooterLink target="https://github.com/wincent" text="GitHub" />
-                <StaticFooterLink target="https://twitter.com/wincent" text="Twitter" />
-                <StaticFooterLink target="https://facebook.com/glh" text="Facebook" />
-                <StaticFooterLink target="https://www.linkedin.com/in/greghurrell" text="LinkedIn" />
-                <StaticFooterLink target="https://keybase.io/wincent" text="Keybase" />
+                <StaticFooterLink target="https://github.com/Terrafarm" text="GitHub" />
+                <StaticFooterLink target="https://twitter.com/_terrafarm" text="Twitter" />
               </ul>
             </div>
             <div className="four columns">
               <h6>Colophon</h6>
               <p>
-                Crafted lovingly by
-                {' '}<a href="mailto:greg@hurrell.net">Greg Hurrell</a>
-                {' '}using
-                {' '}<a href="https://facebook.github.io/react/">React</a>,
-                {' '}<a href="https://facebook.github.io/relay/">Relay</a> and
-                {' '}<a href="http://graphql.org/">GraphQL</a> (with help from
-                {' '}<a href="https://git-scm.com/">Git</a>,
-                {' '}<a href="http://redis.io/">Redis</a> and
-                {' '}<a href="https://github.com/vim/vim">Vim</a>).
+                <a href="/pages/about">About Terrafarm</a>
+                <br /><a href="http://rojobuffalo.com">Ryan Blakeley</a>, Technical Founder
               </p>
               {/* TODO link to /pages/legal here */}
             </div>

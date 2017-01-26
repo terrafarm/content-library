@@ -24,10 +24,10 @@ export default class HTTPError extends React.Component {
           {this.props.children}
           <p>
             Think you've found a problem? Please {' '}
-            <a href="https://github.com/wincent/masochist/issues/new">
+            <a href="https://github.com/terrafarm/content-library/issues/new">
               report it
             </a>
-            {' '} on the Masochist issue tracker.
+            {' '} on the content library issue tracker.
           </p>
         </div>
       </DocumentTitle>

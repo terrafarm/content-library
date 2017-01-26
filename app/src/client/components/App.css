@@ -65,6 +65,7 @@ button:disabled {
 a { color: rgba(92,107,192 ,0.92); }
 a:hover { color: rgba(92,107,192 ,0.6); }
 
+input[type="text"]:focus,
 input[type="search"]:focus {
   border-color: rgba(92,107,192 ,0.92);
 }
