@@ -3,23 +3,20 @@ title: About
 tags: site
 ---
 
-Welcome to [terra.farm](/). The goal for Terrafarm is to improve food systems.
-
-The [CSA App](/csa) is for subscriptions to local farm products. The [wiki](/wiki) is for storing useful content.
-
-My name is Ryan and I'm the technical founder.
+[Terrafarm](/) exists to promote the economics, engineering, and ecology of sustainable food systems.
 
 # Site map
 
-* [Blog](/blog)
-* [Wiki](/wiki)
-* [Snippets](/snippets)
-* [Search](/search)
-* [Tags](/tags)
+* [Blog](/blog): long-form original content
+* [Wiki](/wiki): a catalog of people, organizations, apps, videos, podcasts, articles, and books
+* [Snippets](/snippets): short-form content
+* [Search](/search): for content in the blog, wiki, and snippets
+* [Tags](/tags): for content in the blog, wiki, and snippets
+* [CSA App](/snippets/csa): (coming soon) a platform for seasonal subscriptions to local farm products
 
 # Technical details
 
-[terra.farm](/) is powered by a custom software stack called [Masochist](https://github.com/wincent/masochist).
+The Terrafarm content library is powered by a custom software stack called [Masochist](https://github.com/wincent/masochist).
 
 # Other places to find Terrafarm online
 
