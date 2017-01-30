@@ -4,10 +4,11 @@ import '../common/unhandledRejection';
 import './normalize.css';
 import './skeleton.css';
 
-import {useRouterHistory} from 'react-router';
+import Relay from 'react-relay';
+import {Router, useRouterHistory, applyRouterMiddleware} from 'react-router';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {RelayRouter} from 'react-router-relay';
+import useRelay from 'react-router-relay';
 import useStandardScroll from 'scroll-behavior/lib/useStandardScroll';
 import createBrowserHistory from 'history/lib/createBrowserHistory';
 import routeConfig from '../common/routeConfig';
@@ -15,6 +16,11 @@ import routeConfig from '../common/routeConfig';
 const history = useStandardScroll(useRouterHistory(createBrowserHistory))();
 
 ReactDOM.render(
-  <RelayRouter history={history} routes={routeConfig} />,
+  <Router
+    history={history}
+    routes={routeConfig}
+    render={applyRouterMiddleware(useRelay)}
+    environment={Relay.Store}
+  />,
   document.getElementById('relay-root')
 );
