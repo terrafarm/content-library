@@ -22,7 +22,11 @@ module.exports = {
       }, {
         loader: 'url-loader?limit=10000',
         test: /\.svg$/,
-      },
+      }, {
+        exclude: /node_modules/,
+        test: /\.json$/,
+        loader: 'json-loader'
+      }
     ],
   },
   output: {

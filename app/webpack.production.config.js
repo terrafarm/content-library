@@ -53,7 +53,11 @@ module.exports = {
       }, {
         test: /\.svg$/,
         loader: 'url-loader?limit=10000',
-      },
+      }, {
+        exclude: /node_modules/,
+        test: /\.json$/,
+        loader: 'json-loader'
+      }
     ],
   },
   postcss: function() {
