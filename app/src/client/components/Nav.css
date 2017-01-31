@@ -72,6 +72,10 @@ nav li {
   transition: .5s ease-in-out;
 }
 
+.nav-open ul {
+  border-bottom: 1px solid #263238;
+}
+
 .nav-open li {
   display: inherit;
 }
