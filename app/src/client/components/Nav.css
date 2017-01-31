@@ -10,7 +10,7 @@ nav li:first-child {
 }
 
 nav li:first-child a {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #263238;
   color: rgb(112, 169, 56) !important;
   font-family: inherit;
   font-weight: 900;
@@ -28,6 +28,11 @@ a.nav-link {
 .nav-link:focus,
 .nav-link:hover { color: #263238; }
 
+a.nav-link.active {
+  color: #263238;
+  background-color: rgba(255,255,255 ,0.72);
+}
+
 nav ul {
   list-style-type: none;
   margin: 0;
@@ -39,13 +44,13 @@ nav li {
 }
 
 .nav-toggle-wrapper {
-  border-left: 1px solid #333;
-  border-bottom: 1px solid #333;
+  border-left: 1px solid #263238;
+  border-bottom: 1px solid #263238;
 }
 
 .nav-toggle-wrapper:focus,
 .nav-toggle-wrapper:hover {
-  background-color: #111;
+  background-color: rgba(255,255,255 ,0.72);
 }
 
 .nav-toggle {
@@ -53,7 +58,7 @@ nav li {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 60%;
-  color: rgba(0, 0, 0, 0);
+  color: rgba(38,50,56,0);
   cursor: pointer;
   overflow: hidden;
   padding: 1rem 0;
