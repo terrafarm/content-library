@@ -45,7 +45,7 @@ export default class Footer extends React.Component {
               <h6>Colophon</h6>
               <p>
                 <a href="/pages/about">About Terrafarm</a>
-                <br /><a href="http://rojobuffalo.com">Ryan Blakeley</a>, Technical Founder
+                <br /><a href="http://rojobuffalo.com">Ryan Blakeley</a>, Owner
               </p>
               {/* TODO link to /pages/legal here */}
             </div>
