@@ -61,9 +61,7 @@ const routeConfig = [
     path: '/',
     component: App,
     indexRoute: {
-      component: PostsIndex,
-      queries: PostsIndexQueries,
-      renderLoading: () => <Progress />,
+      onEnter: (nextState, replace) => replace('/pages/about')
     },
     childRoutes: [
       {
