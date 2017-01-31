@@ -3,18 +3,21 @@ title: About
 tags: site
 ---
 
-[Terrafarm](/) exists to promote the economics, engineering, and ecology of sustainable food systems.
+[Terrafarm](/) exists to improve food system sustainability.
 
-# Site map
+# Content Library
 
 * [Blog](/blog): long-form original content
-* [Wiki](/wiki): a catalog of people, organizations, apps, videos, podcasts, articles, and books
-* [Snippets](/snippets): short-form content
-* [Search](/search): for content in the blog, wiki, and snippets
-* [Tags](/tags): for content in the blog, wiki, and snippets
-* [CSA App](/snippets/csa): (coming soon) a platform for seasonal subscriptions to local farm products
+* [Wiki](/wiki): a catalog of [people](/tags/person), [organizations](/tags/organization), [apps](/tags/app), [videos](/tags/video), [podcasts](/tags/podcast), [articles](/tags/article), and [books](/tags/book)
+* [Snippets](/snippets): stuff that is shorter than a blog post
+* [Tags](/tags): core topics are [economics](/tags/economics), [engineering](/tags/engineering), and [ecology](/tags/ecology)
+* [Search](/search)
 
-# Technical details
+# [CSA app](/snippets/csa) (coming soon)
+
+This will be a platform for seasonal subscriptions to local farm products.
+
+# Technical
 
 The Terrafarm content library is powered by a custom software stack called [Masochist](https://github.com/wincent/masochist).
 
