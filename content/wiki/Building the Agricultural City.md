@@ -1,7 +1,7 @@
 ---
 tags: book
 ---
-A book by Robert Wolf. Recomended by [Michael Pollan][1]
+A book by Robert Wolf. [Recomended][1] by [Michael Pollan](/wiki/Michael_Pollan)
 
 # Amazon
 
