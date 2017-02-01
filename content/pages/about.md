@@ -7,9 +7,9 @@ tags: site
 
 # Content Library
 
-* [Blog](/blog): long-form original content
+* [Blog](/blog)
 * [Wiki](/wiki): a catalog of [people](/tags/person), [organizations](/tags/organization), [apps](/tags/app), [videos](/tags/video), [podcasts](/tags/podcast), [articles](/tags/article), and [books](/tags/book)
-* [Snippets](/snippets): stuff that is shorter than a blog post
+* [Snippets](/snippets)
 * [Tags](/tags): core topics are [economics](/tags/economics), [engineering](/tags/engineering), and [ecology](/tags/ecology)
 * [Search](/search)
 
