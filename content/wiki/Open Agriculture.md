@@ -1,7 +1,11 @@
 ---
 tags: engineering organization
 ---
-Open source "food computers" initiative by MIT.
+An open source ecosystem of food technologies by MIT.
+
+# Official site
+
+* http://openag.media.mit.edu/
 
 # Forum site
 

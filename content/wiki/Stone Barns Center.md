@@ -1,7 +1,7 @@
 ---
 tags: cuisine organization
 ---
-A farm and restaurant in the Hudson Valley, New York.
+A farm and restaurant in Pocantico Hills, New York.
 
 # Official site
 
