@@ -17,11 +17,15 @@ tags: site
 
 This will be a platform for seasonal subscriptions to local farm products.
 
+# Contact
+
+If you have any questions or feedback, please reach out via [email](mailto:info@terra.farm).
+
 # Technical
 
 The Terrafarm content library is powered by a custom software stack called [Masochist](https://github.com/wincent/masochist).
 
 # Other places to find Terrafarm online
 
-* [GitHub](https://github.com/Terrafarm)
+* [GitHub](https://github.com/terrafarm)
 * [Twitter](https://twitter.com/_terrafarm)
