@@ -1,7 +1,9 @@
 ---
 tags: ecology book
 ---
-A book by Thor Hanson
+A book by Thor Hanson.
+
+This is an excellent read on the ecological history of seeds and their role in human affairs.
 
 # Official site
 

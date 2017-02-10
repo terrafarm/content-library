@@ -1,5 +1,5 @@
 ---
-tags: economics app
+tags: app
 ---
 Fundraising for gardens.
 

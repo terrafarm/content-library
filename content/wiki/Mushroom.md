@@ -1,7 +1,9 @@
 ---
 tags: ecology book
 ---
-A book by Nicholas P. Money
+A book by Nicholas P. Money that explores the fascinating and mysterious fungi kingdom.
+
+Mushrooms and truffles are strange organisms that export a lot of benefits to root ecosystems. They also play an import role in cuisine.
 
 # Goodreads
 

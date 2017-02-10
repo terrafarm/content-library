@@ -1,5 +1,5 @@
 ---
-tags: cuisine app
+tags: app
 ---
 Open data on food products from around the world.
 

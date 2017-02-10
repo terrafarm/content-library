@@ -1,7 +1,9 @@
 ---
 tags: book
 ---
-A book by Robert Wolf. [Recomended][1] by [Michael Pollan](/wiki/Michael_Pollan)
+A book by Robert Wolf.
+
+Published January 15, 2017. Haven't had a change to read this yet. [Recomended][1] by [Michael Pollan](/wiki/Michael_Pollan).
 
 # Amazon
 

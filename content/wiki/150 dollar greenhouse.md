@@ -1,7 +1,7 @@
 ---
 tags: engineering article
 ---
-Well-written plans for building a hoop-style green house on a $50 budget.
+A guide for building a cost-efficient hoop-style greenhouse: roughly $150 if using all new materials.
 
 # Source
 

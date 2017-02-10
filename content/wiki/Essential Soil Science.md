@@ -1,9 +1,11 @@
 ---
 tags: ecology book
 ---
-A book by Mark Ashman
+A book by Mark Ashman.
 
 Full title: Essential Soil Science : A Clear and Concise Introduction to Soil Science
+
+Really good primer on soil classification, structure, metamorphosis, and living systems.
 
 # Amazon
 

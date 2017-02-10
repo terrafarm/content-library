@@ -1,7 +1,7 @@
 ---
-tags: engineering app
+tags: engineering
 ---
-A network of farmers, engineers, and supporters that for the last two years has been creating the Global Village Construction Set: an open source, low-cost, high performance tech platform that allows for the easy, DIY fabrication of the 50 different Industrial Machines that it takes to build a sustainable civilization with modern comforts.
+A group working on the Global Village Construction Set: an open source, low-cost, high performance catalog of DIY fabrication for industrial machines.
 
 # Official Site
 

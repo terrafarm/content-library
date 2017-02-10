@@ -1,5 +1,5 @@
 ---
-tags: ecology organization
+tags: organization
 ---
 # Mission statement
 

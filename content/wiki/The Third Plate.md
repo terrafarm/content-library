@@ -1,9 +1,11 @@
 ---
-tags: cuisine ecology book
+tags: cuisine book
 ---
-A book by [Dan Barber](/wiki/Dan_Barber)
+A book by [Dan Barber](/wiki/Dan_Barber).
 
 Full title: The Third Plate: Field Notes on the Future of Food
+
+This is an excellent read on the culture and ecology of great food systems.
 
 # Official site
 

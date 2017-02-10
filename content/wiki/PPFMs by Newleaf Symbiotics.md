@@ -1,5 +1,5 @@
 ---
-tags: ecology video organization
+tags: video
 ---
 A short animation explaining the concept of Pink Pigmented Facultative Methylotrophs and how they are being utilized by Newleaf Symbiotics.
 

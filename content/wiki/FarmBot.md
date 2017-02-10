@@ -1,5 +1,5 @@
 ---
-tags: engineering organization
+tags: engineering
 ---
 An open-source control-and-configure farming machine.
 

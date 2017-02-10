@@ -1,5 +1,5 @@
 ---
-tags: cuisine organization
+tags: cuisine
 ---
 A farm and restaurant in Pocantico Hills, New York.
 

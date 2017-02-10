@@ -1,5 +1,5 @@
 ---
-tags: ecology organization
+tags: organization
 ---
 A company working on several biopesticide products.
 
