@@ -3,19 +3,21 @@ title: About
 tags: site
 ---
 
-[Terrafarm](/) exists to improve food system sustainability.
+[Terrafarm](/)'s mission is to add momentum to positive food systems.
+
+# [CSA app](https://terra.farm/)
+
+Discover CSA products, register shareholders, and trade in vouchers.
+
+[What is a CSA?](/snippets/csa)
 
 # Content Library
 
-* [Blog](/blog)
 * [Wiki](/wiki): a catalog of [people](/tags/person), [organizations](/tags/organization), [apps](/tags/app), [videos](/tags/video), [podcasts](/tags/podcast), [articles](/tags/article), and [books](/tags/book)
-* [Snippets](/snippets)
 * [Tags](/tags): core topics are [economics](/tags/economics), [engineering](/tags/engineering), and [ecology](/tags/ecology)
+* [Blog](/blog)
+* [Snippets](/snippets)
 * [Search](/search)
-
-# [CSA app](/snippets/csa) (coming soon)
-
-This will be a platform for seasonal subscriptions to local farm products.
 
 # Contact
 
