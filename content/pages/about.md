@@ -9,8 +9,6 @@ tags: site
 
 Discover CSA products, register shareholders, and trade in vouchers.
 
-[What is a CSA?](/snippets/csa)
-
 # Content Library
 
 * [Wiki](/wiki): a catalog of [people](/tags/person), [organizations](/tags/organization), [apps](/tags/app), [videos](/tags/video), [podcasts](/tags/podcast), [articles](/tags/article), and [books](/tags/book)
