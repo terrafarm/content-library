@@ -13,7 +13,10 @@
     "start-prod": "NODE_ENV=production node dist/server/main.js",
     "test": "mocha --opts mocha/mocha.opts 'src/**/__mocks__/*.js' 'src/**/__tests__/*-test.js'",
     "update-indices": "babel-node src/bin/updateIndices.js",
-    "update-schema": "babel-node src/bin/updateSchema.js"
+    "update-schema": "babel-node src/bin/updateSchema.js",
+    "pm2-start": "pm2 start ecosystem.json --env production",
+    "pm2-restart": "pm2 restart ecosystem.json",
+    "pm2-stop": "pm2 stop main"
   },
   "authors": [
     {
@@ -36,7 +39,7 @@
   "dependencies": {
     "assets-webpack-plugin": "3.4.0",
     "autoprefixer": "6.3.6",
-    "babel-cli": "6.7.5",
+    "babel-cli": "^6.24.0",
     "babel-eslint": "6.0.2",
     "babel-loader": "6.2.4",
     "babel-plugin-dev-expression": "0.2.1",
@@ -44,7 +47,7 @@
     "babel-preset-es2015": "6.6.0",
     "babel-preset-react": "6.5.0",
     "babel-preset-stage-0": "6.5.0",
-    "babel-register": "6.7.2",
+    "babel-register": "^6.24.0",
     "babel-relay-plugin": "^0.9.3",
     "bluebird": "3.3.5",
     "classnames": "2.2.3",
@@ -85,8 +88,8 @@
     "scroll-behavior": "0.4.0",
     "style-loader": "0.13.1",
     "unpack-content": "0.0.2",
-    "url-loader": "0.5.7",
-    "webpack": "^1.13.3"
+    "url-loader": "^0.5.8",
+    "webpack": "^1.14.0"
   },
   "devDependencies": {
     "expect": "1.16.0",

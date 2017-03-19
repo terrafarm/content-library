@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "name": "main",
+      "script": "./dist/server/main.js"
+    }
+  ],
+  "deploy": {
+    "production": {
+      "user": "rb",
+      "host": "content-library", // replace with public IP for CSA frontend server
+      "ref" : "origin/master",
+      "repo": "git@github.com:terrafarm/content-library.git",
+      "path": "/srv/repo/content-library",
+      "pre-deploy-local" : "echo 'Preparing to deploy to production...'",
+      "post-deploy": "npm install ; gulp build ; pm2 startOrRestart ecosystem.json --env production",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
