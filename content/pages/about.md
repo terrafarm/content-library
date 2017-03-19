@@ -3,11 +3,11 @@ title: About
 tags: site
 ---
 
-[Terrafarm](/)'s mission is to add momentum to positive food systems.
+[Terrafarm](/)'s mission is to enable every community to feed itself.
 
 # [CSA app](https://terra.farm/)
 
-Discover CSA products, register shareholders, and trade in vouchers.
+Pay farmers up front for seasonal product credits, and keep track of distributions, trades, and donations.
 
 # Content Library
 
@@ -23,7 +23,9 @@ If you have any questions or feedback, please reach out via [email](mailto:info@
 
 # Technical
 
-The Terrafarm content library is powered by a custom software stack called [Masochist](https://github.com/wincent/masochist).
+Check out the Terrafarm CSA software stack on [Stackshare](https://stackshare.io/terrafarm/terrafarm). The Terrafarm content library is powered by a custom software stack called [Masochist](https://github.com/wincent/masochist).
+
+Thanks to [@calebmer](http://calebmer.com) and [@dphaener](https://github.com/dphaener) for their contributions to the code base. The barn icon and wheat icon were created by Ron Scott and anbileru adaleruw with the [Noun Project](https://thenounproject.com/). Thanks to [Fairpixels](http://fairpixels.co/) for their work on the logo.</P>
 
 # Other places to find Terrafarm online
 
