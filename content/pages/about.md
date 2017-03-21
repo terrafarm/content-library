@@ -7,7 +7,7 @@ tags: site
 
 # [CSA app](https://terra.farm/)
 
-Pay farmers up front for seasonal product credits, and keep track of distributions, trades, and donations.
+Pay farmers up-front for seasonal products. Trade and donate credits when you have extra.
 
 # Content Library
 
