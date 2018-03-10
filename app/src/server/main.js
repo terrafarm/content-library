@@ -1,6 +1,6 @@
 'use strict'; // eslint-disable-line
 
-import 'babel-polyfill';
+// import 'babel-polyfill';
 import '../common/devFallback';
 import '../common/unhandledRejection';
 import './isomorphicHack';
